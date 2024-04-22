@@ -3,7 +3,7 @@
 ---
 Welcome to the Peethal Company modpack. This modpack has many different mods that slightly change how the game works without straying too far from the vanilla experience. Peethal Company includes mods that change sound effects (Lethal Resonance), QoL improvements (General Improvements), new scrap items (Monster Plushies, etc.).
 
-The mod currently only has 50 mods, but this is a "living" modpack (more mods will be added in the future).
+The mod currently only has 57 mods, but this is a "living" modpack (more mods will be added in the future).
 
 ---
 
