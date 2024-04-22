@@ -26,3 +26,13 @@
 - Added More Head (Cosmetics)<br>
 - Added Discount Alert (QoL)<br>
 </details>
+<br>
+<details>
+<summary>1.2.0</summary>
+<br>
+- Added Pool Rooms (Interior)<br>
+- Added TeraSpace (Interior)<br>
+- Added Starlancer's Moons (Moons)<br>
+- Added Gordion Sect 0 (Moons/Interior)<br>
+- Added Wesley's Moons (Moons)<br>
+</details>
