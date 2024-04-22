@@ -1,6 +1,6 @@
 {
     "name": "PeethalCompany",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "",
     "description": "This is a Lethal Company modpack with a bunch of new scrap, new sound effects, QoL improvements, and more. (Compatible with v50)",
     "dependencies": [
@@ -53,6 +53,13 @@
         "TheFluff-FairAI-1.3.5",
         "FutureSavior-Hold_Scan_Button-1.1.1",
         "Mhz-MoreHead-1.2.6",
-        "akechii-DiscountAlert-2.3.0"
+        "akechii-DiscountAlert-2.3.0",
+        "skidz-PoolRooms-0.1.20",
+        "Tolian-TeraSpace-0.0.6",
+        "AudioKnight-StarlancerMoons-1.4.2",
+        "AudioKnight-StarlancerAIFix-3.5.1",
+        "RosiePies-Gordion_Sect0-2.1.4",
+        "jockie-LethalExpansionCore-1.3.15",
+        "Magic_Wesley-Wesleys_Moons-3.1.10"
     ]
 }
